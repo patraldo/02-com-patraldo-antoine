@@ -29,7 +29,7 @@ color: goldenrod;
 </style>
 <ul>
 <li>
-<a href="/">Home</a>
+<a href="/">Inicio</a>
 </li>
 <li>
 <a href="/talleres">Talleres</a>
