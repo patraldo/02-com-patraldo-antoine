@@ -8,7 +8,7 @@
 <div class="antoinecontacto">
 <p><a href = "mailto:antoine@patraldo.com">Mándame un Email</a></p>
 <p>
-<a rel="me" href="https://mastodonte.red/@antoine">Conecta conmigo en Mastodonte Punto Red</a><br>
+<a rel="me" href="https://mastodonte.red/@antoine">Contacta conmigo en Mastodonte Punto Red</a><br>
 
 </div>
 <div class="chriscontacto">
