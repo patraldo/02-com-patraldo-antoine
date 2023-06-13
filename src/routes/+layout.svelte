@@ -32,6 +32,9 @@ color: goldenrod;
 <a href="/">Inicio</a>
 </li>
 <li>
+<a href="/animaciones">Animaciones</a>
+</li>
+<li>
 <a href="/talleres">Talleres</a>
 </li>
 <li>

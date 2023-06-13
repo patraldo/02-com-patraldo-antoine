@@ -2,7 +2,7 @@
 <title>Antoine Patraldo Dibujos</title>
 </svelte:head>
 
-<h1>Mis Dibujos</h1>
+<h1>Mis Dibujos, Animaciones, Proyecciones, y ma</h1>
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Marmelad&family=Pacifico&family=Special+Elite&family=Tangerine:wght@400;700&family=Ultra&display=swap');
