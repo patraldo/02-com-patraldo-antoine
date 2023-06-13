@@ -65,6 +65,7 @@ flex: 100%;
 
 
 <div class="row">
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/BG-2HM-Landscape.gif" alt="animation of drawing against background of image by Antoinex " onclick="window.open(this.src, '_blank')"></div>
 <div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-WomanDancingAgainstBackground.gif" alt="animation of drawing against background of image projected on cieling" onclick="window.open(this.src, '_blank')"></div>
 <div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/400x400-202210O28-02webp/PXL_20221028_202037493.webp" alt="some description" onclick="window.open(this.src, '_blank')"></div>
 <div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/400x400-202210O28-02webp/PXL_20221028_223931558.MP.webp" alt="some description" onclick="window.open(this.src, '_blank')"></div>
