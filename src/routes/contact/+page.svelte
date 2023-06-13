@@ -9,13 +9,11 @@
 <p><a href = "mailto:antoine@patraldo.com">Mándame un Email</a></p>
 <p>
 <a rel="me" href="https://mastodonte.red/@antoine">Conecta conmigo en Mastodonte Punto Red</a><br>
-<a rel="me" href="https://karlmarx.social/@antoine">Conecta conmigo en Karl Marx Social</a><br>
-<a rel="me" href="https://aynrand.social/@antoine">Conecta conmigo en Ayn Rand Social</a><br></p>
 
 </div>
 <div class="chriscontacto">
 <p>
-<a rel="me" href="https://aynrand.social/@christophe">O si prefieres hablar con mi representante, Christophe R</a></p>
+<a rel="me" href="https://mastodonte.red/@cheftech">O si prefieres hablar con mi representante, Christophe R</a></p>
 </div>
 </div>
 
