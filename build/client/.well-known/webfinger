@@ -1,0 +1,23 @@
+{
+    "subject": "acct:mxurbano@mastodon.mexicanbold.com",
+    "aliases": [
+        "https://mastodon.mexicanbold.com/@mxurbano",
+        "https://mastodon.mexicanbold.com/users/mxurbano"
+    ],
+    "links": [
+        {
+            "rel": "http://webfinger.net/rel/profile-page",
+            "type": "text/html",
+            "href": "https://mastodon.mexicanbold.com/@mxurbano"
+        },
+        {
+            "rel": "self",
+            "type": "application/activity+json",
+            "href": "https://mastodon.mexicanbold.com/users/mxurbano"
+        },
+        {
+            "rel": "http://ostatus.org/schema/1.0/subscribe",
+            "template": "https://mastodon.mexicanbold.com/authorize_interaction?uri={uri}"
+        }
+    ]
+}
