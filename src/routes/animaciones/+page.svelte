@@ -1,3 +1,3 @@
-<h1>Animaciones</h1>
+<h1 style="font-size:10vw;">Animaciones</h1>
 
-<h3>Animaciones basadas en inteligencia artificial.</h3>
+<h3 style="font-size:7vw;">Animaciones basadas en inteligencia artificial.</h3>
