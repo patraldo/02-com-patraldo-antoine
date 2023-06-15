@@ -9,8 +9,8 @@
 <p style="font-size:4vw;"><a href = "mailto:antoine@patraldo.com">Mándame un Email</a></p>
 <p style="font-size:4vw;">
 <a rel="me" href="https://mastodonte.red/@antoine">Conéctate conmigo en Mastodonte Punto Red</a><br>
-
 </div>
+
 <div class="chriscontacto">
 <p style="font-size:4vw;">
 <a rel="me" href="https://mastodonte.red/@cheftech">O si prefieres hablar con mi representante, Christophe R</a></p>
@@ -30,14 +30,14 @@
   padding: 20px;
 }
 .antoinecontacto {
-  background-color: #bcbcbc;
+  background-color: white;
   color: white;
   border: 1px solid black;
   margin: 10px;
   padding: 10px;
 }
 .chriscontacto {
-  background-color: #bcbcbc;
+  background-color: white;
   color: white;
   border: 1px solid black;
   margin: 10px;

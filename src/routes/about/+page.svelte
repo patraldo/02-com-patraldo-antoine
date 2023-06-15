@@ -29,7 +29,7 @@ font-size: 1.875em;
 </style>
 
 <div> 
-    <h1 style="font-size:10vw;">¡Hola! Bienvenid@ a mi galería en linea:</h1>
+  <h1 style="font-size:10vw;">¡Hola! Bienvenid@ a mi galería en linea:</h1>
 	<h2 style="font-size:9vw;">La Musa que Más Aplauda</h2>
     <p>Dibujar es un placer. Me permite descubrir lo que tengo en mi imaginación. Me gusta expresarme de esta manera. Poco a poco voy descubriendo la magia de animación, proyecciónes, murales y todo tipo de maneras de incorporar mis dibujos en la vida cotidiana.</p>
 </div>

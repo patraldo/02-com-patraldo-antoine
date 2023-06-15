@@ -29,16 +29,19 @@ color: teal;
 </style>
 <ul>
 <li>
-<a href="/">Inicio</a>
+<a href="/">Dibujos</a>
 </li>
 <li>
 <a href="/animaciones">Animaciones</a>
 </li>
 <li>
+<a href="/proyecciones">Proyecciones</a>
+</li>
+<li>
 <a href="/talleres">Talleres</a>
 </li>
 <li>
-<a href="/about" aria-current="page">Acerca de Antoine</a>
+<a href="/about">Acerca de Antoine</a>
 </li>
 <li>
 <a href="/contact">Contacto</a>

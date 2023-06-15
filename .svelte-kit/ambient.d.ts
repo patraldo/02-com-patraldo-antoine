@@ -40,6 +40,7 @@ declare module '$env/static/private' {
 	export const HOME: string;
 	export const CHROME_DESKTOP: string;
 	export const CONDA_SHLVL: string;
+	export const OLDPWD: string;
 	export const TERM_PROGRAM_VERSION: string;
 	export const npm_package_json: string;
 	export const VSCODE_GIT_ASKPASS_MAIN: string;
@@ -148,6 +149,7 @@ declare module '$env/dynamic/private' {
 		HOME: string;
 		CHROME_DESKTOP: string;
 		CONDA_SHLVL: string;
+		OLDPWD: string;
 		TERM_PROGRAM_VERSION: string;
 		npm_package_json: string;
 		VSCODE_GIT_ASKPASS_MAIN: string;

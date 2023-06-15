@@ -1,8 +1,8 @@
 <svelte:head>
-<title>Antoine Patraldo Dibujos</title>
+<title>Antoine Patraldo</title>
 </svelte:head>
 
-<h1 style="font-size:10vw;">Mis Dibujos, Animaciones, Proyecciones, y más ...</h1>
+<h1 style="font-size:10vw;">Dibujos</h1>
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Marmelad&family=Pacifico&family=Special+Elite&family=Tangerine:wght@400;700&family=Ultra&display=swap');
@@ -20,7 +20,6 @@ padding: 20px 20px 60px;
 * {
 	box-sizing: border-box;
 }
-
 
 .row {
 display: -ms-flexbox; /* IE10 */
@@ -65,8 +64,6 @@ flex: 100%;
 
 
 <div class="row">
-<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/BG-2HM-Landscape.gif" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
-<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-WomanDancingAgainstBackground.gif" alt="animation of drawing against background projected on cieling" onclick="window.open(this.src, '_blank')"></div>
 <div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/400x400-202210O28-02webp/PXL_20221028_202037493.webp" alt="some description" onclick="window.open(this.src, '_blank')"></div>
 <div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/400x400-202210O28-02webp/PXL_20221028_223931558.MP.webp" alt="some description" onclick="window.open(this.src, '_blank')"></div>
 <div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/400x400-202210O28-02webp/PXL_20221028_223944069.MP.webp" alt="some description" onclick="window.open(this.src, '_blank')"></div>
