@@ -3,16 +3,16 @@
 </svelte:head>
 
 <div class="amboscontactos">
-<h1 style="font-size:8vw;">Contacto</h1>
+<h1 style="font-size:10vw;">Contacto</h1>
 
 <div class="antoinecontacto">
-<p style="font-size:2vw;"><a href = "mailto:antoine@patraldo.com">Mándame un Email</a></p>
-<p style="font-size:2vw;">
+<p style="font-size:4vw;"><a href = "mailto:antoine@patraldo.com">Mándame un Email</a></p>
+<p style="font-size:4vw;">
 <a rel="me" href="https://mastodonte.red/@antoine">Conéctate conmigo en Mastodonte Punto Red</a><br>
 
 </div>
 <div class="chriscontacto">
-<p style="font-size:2vw;">
+<p style="font-size:4vw;">
 <a rel="me" href="https://mastodonte.red/@cheftech">O si prefieres hablar con mi representante, Christophe R</a></p>
 </div>
 </div>
