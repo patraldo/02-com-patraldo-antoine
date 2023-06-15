@@ -8,7 +8,7 @@
 <div class="antoinecontacto">
 <p><a href = "mailto:antoine@patraldo.com">Mándame un Email</a></p>
 <p>
-<a rel="me" href="https://mastodonte.red/@antoine">Contacta conmigo en Mastodonte Punto Red</a><br>
+<a rel="me" href="https://mastodonte.red/@antoine">Conéctate conmigo en Mastodonte Punto Red</a><br>
 
 </div>
 <div class="chriscontacto">
@@ -23,7 +23,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Marmelad&family=Pacifico&family=Special+Elite&family=Tangerine:wght@400;700&family=Ultra&display=swap');
 
 .amboscontactos {
-  background-color: #5f5f87;
+  background-color:teal;
   color: white;
   border: 2px solid black;
   margin: 20px;

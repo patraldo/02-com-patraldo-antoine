@@ -3,7 +3,7 @@
 
 	:global(body) {
 		/* this will apply to <body> */
-		margin: 0;
+		margin: 10;
 	}
 
 	div :global(strong) {
@@ -24,7 +24,7 @@
 /* this style tag will be inserted as-is */
 div {
 	/* this will apply to all `<div>` elements in the DOM */
-color: goldenrod;
+color: teal;
 }
 </style>
 <ul>
