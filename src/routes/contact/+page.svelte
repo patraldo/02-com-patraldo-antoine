@@ -32,16 +32,16 @@
 .antoinecontacto {
   background-color: #bcbcbc;
   color: white;
-  border: 2px solid black;
-  margin: 20px;
-  padding: 20px;
+  border: 1px solid black;
+  margin: 10px;
+  padding: 10px;
 }
 .chriscontacto {
   background-color: #bcbcbc;
   color: white;
-  border: 2px solid black;
-  margin: 20px;
-  padding: 20px;
+  border: 1px solid black;
+  margin: 10px;
+  padding: 10px;
 }
 h1 {
                         font-family: 'Special Elite', cursive;
