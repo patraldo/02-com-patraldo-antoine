@@ -7,15 +7,12 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Marmelad&family=Pacifico&family=Special+Elite&family=Tangerine:wght@400;700&family=Ultra&display=swap');
 h1 {
-	font-family: 'Special Elite', cursive;
+font-family: 'Special Elite', cursive;
 font-size: 3.0rem;
 padding: 20px 20px 60px;
-  max-width: 680px;
-  margin: 0 auto;
-
-
+max-width: 680px;
+margin: 0 auto;
 }
-
 
 * {
 	box-sizing: border-box;
@@ -64,6 +61,7 @@ flex: 100%;
 
 
 <div class="row">
+ <div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/202210O10A/GreenMonsterTwoFaced.gif" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
 <div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/BG-2HM-Landscape.gif" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
 <div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-WomanDancingAgainstBackground.gif" alt="animation of drawing against background projected on cieling" onclick="window.open(this.src, '_blank')"></div>
 </div>
