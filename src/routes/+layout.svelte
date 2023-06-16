@@ -17,35 +17,8 @@
 
 <!-- <h1 style="font-size:10vw;"> {path.toUpperCase()}</h1> -->
 
-
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Hurricane&family=Inspiration&family=Special+Elite&display=swap');
-/* Define variables for your colors */
-h1 {
-font-family: 'Special Elite';
-}
-
-
-nav a.active {
-   background-color: #ddd392;
-   font-family: 'Special Elite';
-   font-size:6vw !important;
-   border-radius: 25px;
-
-   
-  }
-:root {
-	--color-shades-dark: rgb(25, 25, 25);
-}
-
-/* Use the alternative box model
-Details: <https://web.dev/learn/css/box-model/> */
-*{
-	box-sizing: border-box;
-}
-
-/* Basic font styling */
-
 
 nav a {
     color: #000;
@@ -59,42 +32,17 @@ nav a:visited {
   font-family: 'Special Elite';
 }
 
-
 nav a:hover {
     color: #FFF;
     background-color: #252525;
     font-family: "Special Elite";
 }
 
-
-/* Define variables for your colors */
-:root {
-	--color-shades-dark: rgb(25, 25, 25);
-	--color-shades-light: rgb(165, 167, 175);
-	--color-highlight: rgb(24, 54, 145);
-}
-
-/* Use the alternative box model */
-* {
-	box-sizing: border-box;
-}
-
-/* Basic link styling */
-a {
-	--text-color: var(--color-shades-dark);
-
-	border-block-end: 3px solid var(--border-color, transparent);
-color: var(--text-color);
-display: inline-block;
-	 margin-block-end: 0.5rem;
-	 margin-inline-end: 0.5rem;
-padding: 0.1rem;
-	 text-decoration: none;
-}
-
-/* Change the border-color on :hover and :focus */
-a:where(:hover, :focus) {
-	  --border-color: var(--text-color);
+nav a.active {
+   background-color: #ddd392;
+   font-family: 'Special Elite';
+   font-size:6vw !important;
+   border-radius: 25px;
   }
 
 </style>
