@@ -6,7 +6,7 @@
 
 </script>
 
-<nav style="font-size:3vw; {path.toUpperCase()}">
+<nav style="font-size:3vw;">
 <a href="/" class:active={$page.url.pathname == "/"}>Acerca</a>
 <a href="/dibujos" class:active={$page.url.pathname == "/dibujos"}>Dibujos</a>
 <a href="/animaciones" class:active={$page.url.pathname == "/animaciones"}>Animaciones</a>
@@ -27,7 +27,7 @@ font-family: 'Special Elite';
 
 
 nav a.active {
-   background-color: grey;
+   background-color: #ddd392;
    font-family: 'Special Elite';
    font-size:6vw !important;
    border-radius: 25px;
@@ -57,18 +57,10 @@ nav a {
 nav a:hover {
     color: #FFF;
     background-color: #252525;
-    border-bottom: red solid 1px;
     font-family: "Special Elite";
 }
 
-nav a:focus{
-    color: orange;
-    text-decoration: underline;
-}
-nav a:active {
-color: yellow;
-text-decoration: underline !important;
-}
+
 /* Define variables for your colors */
 :root {
 	--color-shades-dark: rgb(25, 25, 25);

@@ -1,3 +1,13 @@
+<script>
+    import { page } from '$app/stores';
+    let path;
+
+    $: path = $page.url.pathname;
+
+</script>
+<p style="font-size:5vw;">{path}Acerca de ANTOINEX</p>
+
+
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Marmelad&family=Pacifico&family=Special+Elite&family=Tangerine:wght@400;700&family=Ultra&display=swap');
 
