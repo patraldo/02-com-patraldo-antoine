@@ -1,10 +1,4 @@
-<svelte:head>
-<title>Contact</title>
-</svelte:head>
-
 <div class="amboscontactos">
-<h1 style="font-size:10vw;">Contacto</h1>
-
 <div class="antoinecontacto">
 <p style="font-size:4vw;"><a href = "mailto:antoine@patraldo.com">Mándame un Email</a></p>
 <p style="font-size:4vw;">

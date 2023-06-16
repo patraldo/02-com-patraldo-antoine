@@ -1,9 +1,3 @@
-<svelte:head>
-<title>Antoine Patraldo</title>
-</svelte:head>
-
-<h1 style="font-size:10vw;">Proyecciones</h1>
-
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Marmelad&family=Pacifico&family=Special+Elite&family=Tangerine:wght@400;700&family=Ultra&display=swap');
 h1 {

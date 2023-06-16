@@ -1,10 +1,3 @@
-<svelte:head>
-<title>Dibujos</title>
-</svelte:head>
-
-
-<h1 style="font-size:10vw;">Dibujos</h1>
-
 <style>
 
 

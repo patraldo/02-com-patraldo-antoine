@@ -1,10 +1,6 @@
-<svelte:head>
-<title>Antoine Patraldo, Talleres</title>
-</svelte:head>
+<p style="font-size:3vw;">Taller abierto para artistas y tecnologistas en animación. En nuestra casa, su casa, tenemos un restaurante con café, Café Chapopote de ¡Pinche Poutine! También es nuestro espacio para crear arte.</p> 
 
-<h1 style="font-size:10vw;">Talleres</h1>
-
-<p style="font-size:3vw;">Taller abierto para artistas y tecnologistas en animación. En nuestra casa, su casa, tenemos un restaurante con café, Café Chapopote de ¡Pinche Poutine! En las horas abiertas sean bienvenid@s a inspirarte de l@s mus@s de Santa Tere. Aprovéchense los sábados.  A partir de las 10 de la mañana, café Canadiense a su antojo con cualquier de los desayunos del mes.</p>
+<p style="font-size:3vw;">Los sábados, a partir de las 10 de la mañana, café Canadiense a su antojo con cualquier de los desayunos del mes. Sean bienvenid@s a inspirarte de l@s mus@s de Santa Tere.</p>
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Marmelad&family=Pacifico&family=Special+Elite&family=Tangerine:wght@400;700&family=Ultra&display=swap');
