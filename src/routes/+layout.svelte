@@ -29,7 +29,10 @@ color: teal;
 </style>
 <ul>
 <li>
-<a href="/">Dibujos</a>
+<a href="/">Acerca de Antoine</a>
+</li>
+<li>
+<a href="/dibujos">Dibujos</a>
 </li>
 <li>
 <a href="/animaciones">Animaciones</a>
@@ -39,9 +42,6 @@ color: teal;
 </li>
 <li>
 <a href="/talleres">Talleres</a>
-</li>
-<li>
-<a href="/about">Acerca de Antoine</a>
 </li>
 <li>
 <a href="/contact">Contacto</a>
@@ -97,13 +97,6 @@ a:where(:hover, :focus) {
 	  --border-color: var(--text-color);
   }
 
-/* Change border-color and color for the active page */
-[aria-current="page"] {
-	--border-color: var(--color-highlight);
-	--text-color: var(--color-highlight);
-}
-
 
 </style>
-
 <slot></slot>
