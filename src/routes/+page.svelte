@@ -13,6 +13,7 @@
 
 h1{
 font-family: 'Special Elite';
+margin: 2 8 1.0rem 0;
 }
 
 
