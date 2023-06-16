@@ -49,8 +49,14 @@ Details: <https://web.dev/learn/css/box-model/> */
 
 nav a {
     color: #000;
+    font-family: 'Special Elite';
     text-decoration: none;
     border: transparent solid 3px;
+}
+
+nav a:visited {
+  color: grey;
+  font-family: 'Special Elite';
 }
 
 
