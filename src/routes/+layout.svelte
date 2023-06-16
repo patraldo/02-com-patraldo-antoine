@@ -24,12 +24,12 @@
 /* this style tag will be inserted as-is */
 div {
 	/* this will apply to all `<div>` elements in the DOM */
-color: teal;
+color: black;
 }
 </style>
 <ul>
 <li>
-<a href="/">Acerca de Antoine</a>
+<a href="/">Acerca</a>
 </li>
 <li>
 <a href="/dibujos">Dibujos</a>
