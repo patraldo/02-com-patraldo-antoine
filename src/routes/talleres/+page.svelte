@@ -67,6 +67,22 @@ flex: 100%;
 
 
 <div class="row">
-<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/BG-2HM-Landscape.gif" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
-<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-WomanDancingAgainstBackground.gif" alt="animation of drawing against background projected on cieling" onclick="window.open(this.src, '_blank')"></div>
+
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-Talleres/talleres-webp/PXL_20221016_184443837.MP.webp" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-Talleres/talleres-webp/PXL_20221016_184507752.PORTRAIT.webp" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-Talleres/talleres-webp/PXL_20221016_184532258.PORTRAIT.webp" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-Talleres/talleres-webp/PXL_20221218_212119934.webp" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-Talleres/talleres-webp/PXL_20221220_221617355.PORTRAIT.webp" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-Talleres/talleres-webp/PXL_20230105_193523113.webp" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-Talleres/talleres-webp/PXL_20230212_011057190.webp" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-Talleres/talleres-webp/PXL_20230211_234540323.webp" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-Talleres/talleres-webp/PXL_20230212_011100824.webp" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-Talleres/talleres-webp/PXL_20230216_005728798.webp" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-Talleres/talleres-webp/PXL_20230216_005743208.webp" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-Talleres/talleres-webp/PXL_20230219_004302129.webp" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-Talleres/talleres-webp/PXL_20230105_204338973.webp" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-Talleres/talleres-webp/PXL_20230105_204344028.webp" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-Talleres/talleres-webp/PXL_20230201_015614436.webp" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-Talleres/talleres-webp/PXL_20230201_015620202.webp" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+
 </div>
