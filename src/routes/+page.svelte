@@ -5,7 +5,7 @@
     $: path = $page.url.pathname;
 
 </script>
-<p style="font-size:5vw;">{path}Acerca de ANTOINEX</p>
+<!-- <p style="font-size:5vw;">{path}Acerca de ANTOINEX</p> -->
 
 <div class='bienvenido'> 
   <h1 style="font-size:8vw;">Bienvenid@ a mi galería en linea:</h1>
@@ -28,7 +28,7 @@ font-family: 'Special Elite';
 margin: 10px;
 padding: 10px;
 text-align: center;
-color: black;
+color: white;
 }
 
 .bienvenido a:hover {
@@ -57,7 +57,7 @@ font-family: 'Special Elite';
 margin: 10px;
 padding: 10px;
 text-align: center;
-color: black;
+color: white;
 }
 
 .desc a:hover {
