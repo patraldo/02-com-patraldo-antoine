@@ -22,8 +22,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Hurricane&family=Inspiration&family=Special+Elite&display=swap');
 
+
 nav ul {
-    display: flex;
+    flex-direction: column;
 }
 
 nav li {
