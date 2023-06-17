@@ -1,7 +1,5 @@
 <div class='taller'>
-<p style="font-size:6vw;">Taller abierto para artistas y tecnologistas en animación. En nuestra casa, su casa, tenemos un restaurante con café, Café Chapopote de ¡Pinche Poutine! También es nuestro espacio para crear arte.</p> 
-
-<p style="font-size:3vw;">Los sábados, a partir de las 10 de la mañana, café Canadiense a su antojo con cualquier de los desayunos del mes. Sean bienvenid@s a inspirarte de l@s mus@s de Santa Tere.</p>
+<p style="font-size:5vw;">Taller abierto: dibujos animados con inteligencia artificial. Gratis. Los sábados, en el <a href="https://pinchepoutine.mx/cafe">Café Chapopote de ¡Pinche Poutine!</a> a partir de las 10 de la mañana, café Canadiense a su antojo con cualquier de los desayunos del mes, opcional. Sean bienvenid@s a inspirarte de l@s mus@s de Santa Tere.</p>
 </div>
 
 <style>
