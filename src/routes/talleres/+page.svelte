@@ -5,6 +5,10 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Marmelad&family=Pacifico&family=Special+Elite&family=Tangerine:wght@400;700&family=Ultra&display=swap');
 
+a, a:hover, a:active, a:visited, a:focus {
+color: black;
+    text-decoration:none;
+}
 
 .taller {
 border: 10px dotted black;
