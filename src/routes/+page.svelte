@@ -13,14 +13,11 @@
 
 h1{
 font-family: 'Special Elite';
-margin: 2 8 1.0rem 0;
 }
 
-
 p {
-font-family: 'Special Elite', sans-serif;
-
-                }
+font-family: 'Special Elite';
+}
 
 </style>
 

@@ -14,6 +14,7 @@
 <li><a href="/proyecciones" class:active={$page.url.pathname == "/proyecciones"}>Proyecciones</a></li>
 <li><a href="/talleres" class:active={$page.url.pathname == "/talleres"}>Talleres</a></li>
 <li><a href="/contacto" class:active={$page.url.pathname == "/contacto"}>Contacto</a></li>
+
 </ul>
 </nav>
 
@@ -54,7 +55,7 @@ nav a.active {
    background-color: #ddd392;
    font-family: 'Special Elite';
    font-size:6vw !important;
-   border-radius: 25px;
+   border-radius: 15px;
   }
 
 </style>
