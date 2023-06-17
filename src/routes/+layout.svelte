@@ -6,19 +6,30 @@
 
 </script>
 
-<nav style="font-size:3vw;">
-<a href="/" class:active={$page.url.pathname == "/"}>Acerca</a>
-<a href="/dibujos" class:active={$page.url.pathname == "/dibujos"}>Dibujos</a>
-<a href="/animaciones" class:active={$page.url.pathname == "/animaciones"}>Animaciones</a>
-<a href="/proyecciones" class:active={$page.url.pathname == "/proyecciones"}>Proyecciones</a>
-<a href="/talleres" class:active={$page.url.pathname == "/talleres"}>Talleres</a>
-<a href="/contacto" class:active={$page.url.pathname == "/contacto"}>Contacto</a>
+<nav style="font-size:4vw;">
+<ul>
+<li><a href="/" class:active={$page.url.pathname == "/"}>Acerca</a></li>
+<li><a href="/dibujos" class:active={$page.url.pathname == "/dibujos"}>Dibujos</a></li>
+<li><a href="/animaciones" class:active={$page.url.pathname == "/animaciones"}>Animaciones</a></li>
+<li><a href="/proyecciones" class:active={$page.url.pathname == "/proyecciones"}>Proyecciones</a></li>
+<li><a href="/talleres" class:active={$page.url.pathname == "/talleres"}>Talleres</a></li>
+<li><a href="/contacto" class:active={$page.url.pathname == "/contacto"}>Contacto</a></li>
+</ul>
 </nav>
 
 <!-- <h1 style="font-size:10vw;"> {path.toUpperCase()}</h1> -->
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Hurricane&family=Inspiration&family=Special+Elite&display=swap');
+
+nav ul {
+    display: flex;
+}
+
+nav li {
+    list-style: none;
+    margin: 10px;
+  }
 
 nav a {
     color: #000;
