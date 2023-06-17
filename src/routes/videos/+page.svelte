@@ -54,6 +54,7 @@
 
 <div>
 	<video
+		poster="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-MP402/Mi%20Amigx%20que%20Baila.jpg"
 		src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-MP402/animation01.mp4"
 		on:mousemove={handleMove}
 		on:touchmove|preventDefault={handleMove}
