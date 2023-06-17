@@ -11,6 +11,9 @@
 <li><a href="/" class:active={$page.url.pathname == "/"}>Acerca</a></li>
 <li><a href="/dibujos" class:active={$page.url.pathname == "/dibujos"}>Dibujos</a></li>
 <li><a href="/animaciones" class:active={$page.url.pathname == "/animaciones"}>Animaciones</a></li>
+
+<li><a href="/videos" class:active={$page.url.pathname == "/videos"}>Videos</a></li>
+
 <li><a href="/proyecciones" class:active={$page.url.pathname == "/proyecciones"}>Proyecciones</a></li>
 <li><a href="/talleres" class:active={$page.url.pathname == "/talleres"}>Talleres</a></li>
 <li><a href="/contacto" class:active={$page.url.pathname == "/contacto"}>Contacto</a></li>
