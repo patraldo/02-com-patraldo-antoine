@@ -1,23 +1,29 @@
+<div class='taller'>
 <p style="font-size:3vw;">Taller abierto para artistas y tecnologistas en animación. En nuestra casa, su casa, tenemos un restaurante con café, Café Chapopote de ¡Pinche Poutine! También es nuestro espacio para crear arte.</p> 
 
 <p style="font-size:3vw;">Los sábados, a partir de las 10 de la mañana, café Canadiense a su antojo con cualquier de los desayunos del mes. Sean bienvenid@s a inspirarte de l@s mus@s de Santa Tere.</p>
+</div>
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Marmelad&family=Pacifico&family=Special+Elite&family=Tangerine:wght@400;700&family=Ultra&display=swap');
 
-h1 {
-font-family: 'Special Elite', cursive;
-font-size: 3.0rem;
-padding: 20px 20px 60px;
-max-width: 680px;
-margin: 0 auto;
+
+.taller {
+border: 10px dotted black;
+background: #ddd392;
+background-clip: padding-box;
+font-family: 'Special Elite';
+margin: 10px;
+padding: 10px;
+text-align: center;
+color: black;
+}
+
+.taller a:hover {
+color: green;
 }
 
 
-p {
-font-family: 'Special Elite', sans-serif;
-font-size: 1.875em;
-                }
 
 
 * {
