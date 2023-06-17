@@ -49,7 +49,7 @@
 	}
 </script>
 
-<h1>Mi Amigx que Baila</h1>
+<h1>Amigx</h1>
 <p><a href="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-MP402/animation01.mp4"></a></p>
 
 <div>
