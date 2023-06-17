@@ -26,7 +26,7 @@
 	}
 
 	// we can't rely on the built-in click event, because it fires
-	// after a drag — we have to listen for clicks ourselves
+	// after a drag — we have to listen for clicks 
 	function handleMousedown(e) {
 		lastMouseDown = new Date();
 	}
@@ -49,13 +49,12 @@
 	}
 </script>
 
-<h1>Caminandes: Llamigos</h1>
-<p>From <a href="https://studio.blender.org/films">Blender Studio</a>. CC-BY</p>
+<h1>Mi Amigx que Baila</h1>
+<p><a href="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-MP402/animation01.mp4"></a></p>
 
 <div>
 	<video
-		poster="https://sveltejs.github.io/assets/caminandes-llamigos.jpg"
-		src="https://sveltejs.github.io/assets/caminandes-llamigos.mp4"
+		src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-MP402/animation01.mp4"
 		on:mousemove={handleMove}
 		on:touchmove|preventDefault={handleMove}
 		on:mousedown={handleMousedown}
