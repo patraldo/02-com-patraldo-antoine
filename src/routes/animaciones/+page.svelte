@@ -55,12 +55,14 @@ flex: 100%;
 
 
 <div class="row">
-
 <div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/animaciones/GIFs/AGR-Original-TwoDancers_House-BG.gif" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
-<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/animaciones/GIFs/BG-OrangeMonster-FG-TwoHeaded.gif" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
-<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/animaciones/GIFs/BackgroundExample.gif" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
 <div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/animaciones/GIFs/granny-bg-littleLessChubbyx2.gif" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
- <div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/202210O10A/GreenMonsterTwoFaced.gif" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
 <div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-WomanDancingAgainstBackground.gif" alt="animation of drawing against background projected on cieling" onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/202210O10A/GreenMonsterTwoFaced.gif" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-GIFs02/BG-PinchePoutineOrangeMonster-wide.gif" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-GIFs02/BG-PinchePoutinePorton-OrangeMonster.gif" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-GIFs02/BG-PinchePoutinePorton-dab-OrangeMonster.gif" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/AGR-GIFs02/BG-PinchePoutinePorton-zombie-OrangeMonster.gif" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/animaciones/GIFs/BG-OrangeMonster-FG-TwoHeaded.gif" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
 <div class="column"><img src="https://storage.googleapis.com/patraldo/antoine-dibujos/BG-2HM-Landscape.gif" alt="animation of drawing against background by Antoinex " onclick="window.open(this.src, '_blank')"></div>
 </div>

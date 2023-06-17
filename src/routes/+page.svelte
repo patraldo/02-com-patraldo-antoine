@@ -31,7 +31,7 @@ text-align: center;
 color: white;
 }
 
-.bienvenido a:hover {
+.a:hover {
 color: green;
 }
 
