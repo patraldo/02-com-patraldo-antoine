@@ -10,7 +10,7 @@ export const posts = [
 		slug: 'calor',
 		title: 'Calor Histórico',
 		content:
-			'<p style="font-size: 5vw;">La tercera ola de calor llegó y se quedó. A pesar de las temperaturas que acercan a los 40 grados centigrados, rompiendo récords, y que han durado mucho tiempo, seguimos los sábados con nuestro taller de dibujos animados. Juntense con nosotros.  (Es gratis, además. &#128512;)</p>'
+			'<p style="font-size: 5vw;">La tercera ola de calor llegó y se quedó. A pesar de las temperaturas que acercan a los 40 grados centigrados, rompiendo récords, y que han durado mucho tiempo, seguimos los sábados con nuestro taller de dibujos animados. Júntense con nosotros.  (Es gratis, además. &#128512;)</p>'
 	},
 
 	{
