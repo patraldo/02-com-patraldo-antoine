@@ -10,20 +10,26 @@ export const nodes = [
 	() => import('./nodes/6'),
 	() => import('./nodes/7'),
 	() => import('./nodes/8'),
-	() => import('./nodes/9')
+	() => import('./nodes/9'),
+	() => import('./nodes/10'),
+	() => import('./nodes/11'),
+	() => import('./nodes/12'),
+	() => import('./nodes/13')
 ];
 
-export const server_loads = [];
+export const server_loads = [2];
 
 export const dictionary = {
-		"/": [2],
-		"/animaciones": [3],
-		"/contacto": [4],
-		"/dibujos": [5],
-		"/gridGallery": [6],
-		"/proyecciones": [7],
-		"/talleres": [8],
-		"/videos": [9]
+		"/": [4],
+		"/animaciones": [5],
+		"/blog": [6,[2]],
+		"/blog/[slug]": [~7,[2,3]],
+		"/contacto": [8],
+		"/dibujos": [9],
+		"/gridGallery": [10],
+		"/proyecciones": [11],
+		"/talleres": [12],
+		"/videos": [13]
 	};
 
 export const hooks = {

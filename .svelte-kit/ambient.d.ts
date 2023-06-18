@@ -26,7 +26,6 @@
  * ```
  */
 declare module '$env/static/private' {
-	export const CONDA_PROMPT_MODIFIER: string;
 	export const USER: string;
 	export const npm_config_user_agent: string;
 	export const npm_node_execpath: string;
@@ -37,13 +36,11 @@ declare module '$env/static/private' {
 	export const XCURSOR_SIZE_LOW_DENSITY: string;
 	export const SOMMELIER_VERSION: string;
 	export const HOME: string;
-	export const CONDA_SHLVL: string;
 	export const npm_package_json: string;
 	export const MANAGERPID: string;
 	export const npm_config_userconfig: string;
 	export const npm_config_local_prefix: string;
 	export const DBUS_SESSION_BUS_ADDRESS: string;
-	export const _CE_M: string;
 	export const COLOR: string;
 	export const npm_config_metrics_registry: string;
 	export const QT_QPA_PLATFORMTHEME: string;
@@ -58,7 +55,6 @@ declare module '$env/static/private' {
 	export const NCURSES_NO_UTF8_ACS: string;
 	export const TERM: string;
 	export const npm_config_cache: string;
-	export const _CE_CONDA: string;
 	export const npm_config_node_gyp: string;
 	export const PATH: string;
 	export const INVOCATION_ID: string;
@@ -76,21 +72,17 @@ declare module '$env/static/private' {
 	export const XDG_CONFIG_HOME: string;
 	export const LS_COLORS: string;
 	export const npm_lifecycle_script: string;
-	export const CONDA_PYTHON_EXE: string;
 	export const SHELL: string;
 	export const npm_package_version: string;
 	export const npm_lifecycle_event: string;
 	export const QT_ACCESSIBILITY: string;
-	export const CONDA_DEFAULT_ENV: string;
 	export const npm_config_globalconfig: string;
 	export const npm_config_init_module: string;
 	export const PWD: string;
 	export const npm_execpath: string;
-	export const CONDA_EXE: string;
 	export const XDG_DATA_DIRS: string;
 	export const npm_config_global_prefix: string;
 	export const npm_command: string;
-	export const CONDA_PREFIX: string;
 	export const INIT_CWD: string;
 	export const EDITOR: string;
 	export const NODE_ENV: string;
@@ -123,7 +115,6 @@ declare module '$env/static/public' {
  */
 declare module '$env/dynamic/private' {
 	export const env: {
-		CONDA_PROMPT_MODIFIER: string;
 		USER: string;
 		npm_config_user_agent: string;
 		npm_node_execpath: string;
@@ -134,13 +125,11 @@ declare module '$env/dynamic/private' {
 		XCURSOR_SIZE_LOW_DENSITY: string;
 		SOMMELIER_VERSION: string;
 		HOME: string;
-		CONDA_SHLVL: string;
 		npm_package_json: string;
 		MANAGERPID: string;
 		npm_config_userconfig: string;
 		npm_config_local_prefix: string;
 		DBUS_SESSION_BUS_ADDRESS: string;
-		_CE_M: string;
 		COLOR: string;
 		npm_config_metrics_registry: string;
 		QT_QPA_PLATFORMTHEME: string;
@@ -155,7 +144,6 @@ declare module '$env/dynamic/private' {
 		NCURSES_NO_UTF8_ACS: string;
 		TERM: string;
 		npm_config_cache: string;
-		_CE_CONDA: string;
 		npm_config_node_gyp: string;
 		PATH: string;
 		INVOCATION_ID: string;
@@ -173,21 +161,17 @@ declare module '$env/dynamic/private' {
 		XDG_CONFIG_HOME: string;
 		LS_COLORS: string;
 		npm_lifecycle_script: string;
-		CONDA_PYTHON_EXE: string;
 		SHELL: string;
 		npm_package_version: string;
 		npm_lifecycle_event: string;
 		QT_ACCESSIBILITY: string;
-		CONDA_DEFAULT_ENV: string;
 		npm_config_globalconfig: string;
 		npm_config_init_module: string;
 		PWD: string;
 		npm_execpath: string;
-		CONDA_EXE: string;
 		XDG_DATA_DIRS: string;
 		npm_config_global_prefix: string;
 		npm_command: string;
-		CONDA_PREFIX: string;
 		INIT_CWD: string;
 		EDITOR: string;
 		NODE_ENV: string;
