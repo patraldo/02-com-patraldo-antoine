@@ -1,5 +1,5 @@
 {
-  "name": "01-com-patraldo-antoine",
+  "name": "02-com-patraldo-antoine",
   "version": "0.0.1",
   "scripts": {
     "dev": "vite dev",
@@ -8,7 +8,6 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@sveltejs/adapter-auto": "next",
     "@sveltejs/adapter-cloudflare": "^2.3.0",
     "@sveltejs/kit": "^1.15.8",
     "autoprefixer": "^10.4.7",
@@ -16,12 +15,12 @@
     "postcss-load-config": "^4.0.1",
     "svelte": "^3.54.0",
     "svelte-hamburgers": "^4.0.2",
-    "svelte-preprocess": "^4.9.3",
     "sveltekit-embed": "^0.0.12",
     "vite": "^4.0.0"
   },
   "type": "module",
   "dependencies": {
-    "hamburgers": "^1.2.1"
+    "hamburgers": "^1.2.1",
+    "latest-version": "^7.0.0"
   }
 }

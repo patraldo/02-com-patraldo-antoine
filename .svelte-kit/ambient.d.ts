@@ -36,6 +36,7 @@ declare module '$env/static/private' {
 	export const XCURSOR_SIZE_LOW_DENSITY: string;
 	export const SOMMELIER_VERSION: string;
 	export const HOME: string;
+	export const OLDPWD: string;
 	export const npm_package_json: string;
 	export const MANAGERPID: string;
 	export const npm_config_userconfig: string;
@@ -125,6 +126,7 @@ declare module '$env/dynamic/private' {
 		XCURSOR_SIZE_LOW_DENSITY: string;
 		SOMMELIER_VERSION: string;
 		HOME: string;
+		OLDPWD: string;
 		npm_package_json: string;
 		MANAGERPID: string;
 		npm_config_userconfig: string;

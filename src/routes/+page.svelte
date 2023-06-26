@@ -31,10 +31,6 @@ text-align: center;
 color: white;
 }
 
-.a:hover {
-color: green;
-}
-
 .musa {
 border: 10px dotted black;
  background: #ddd392;
