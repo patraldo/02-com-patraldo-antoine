@@ -1,4 +1,5 @@
 <script>
+import '@material/web/ripple/ripple.js';
     import { page } from '$app/stores';
     let path;
 
@@ -15,7 +16,7 @@
 <li><a href="/blog" class:active={$page.url.pathname == "/blog"}>Blog</a></li>
 <li><a href="/proyecciones" class:active={$page.url.pathname == "/proyecciones"}>Proyecciones</a></li>
 <li><a href="/talleres" class:active={$page.url.pathname == "/talleres"}>Talleres</a></li>
-<li><a href="/contacto" class:active={$page.url.pathname == "/contacto"}>Contacto</a></li>
+<li><a href="/contacto" class:active={$page.url.pathname == "/contacto"}>Contacto</a><md-ripple></md-ripple></li>
 
 </ul>
 </nav>

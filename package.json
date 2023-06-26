@@ -20,6 +20,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@material/web": "^1.0.0-pre.11",
     "hamburgers": "^1.2.1",
     "latest-version": "^7.0.0"
   }
