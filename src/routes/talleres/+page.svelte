@@ -1,5 +1,5 @@
 <div class='taller'>
-<p style="font-size:5vw;">Taller abierto: dibujos animados con inteligencia artificial. Gratis. Los sábados, en el <a href="https://pinchepoutine.mx/cafe">Café Chapopote de ¡Pinche Poutine!</a> a partir de las 10 de la mañana, café Canadiense a su antojo con cualquier de los desayunos del mes, opcional. Sean bienvenid@s a inspirarte de l@s mus@s de Santa Tere.</p>
+<p style="font-size:5vw;">Taller abierto: dibujos animados con inteligencia artificial. Gratis, en el espacio del <a href="https://plantas.patraldo.com">¡Plantas Patraldo!</a></p> 
 </div>
 
 <style>
