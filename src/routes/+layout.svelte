@@ -10,7 +10,7 @@ import '@material/web/ripple/ripple.js';
 <nav style="font-size:4vw;">
 <ul>
 <li><a href="/" class:active={$page.url.pathname == "/"}>Acerca</a></li>
-<li><a href="/exhibiciones" class:active={$page.url.pathname == "/"}>Exhibiciones</a></li>
+<li><a href="/exhibiciones" class:active={$page.url.pathname == "/exhibiciones"}>Exhibiciones</a></li>
 <li><a href="/dibujos" class:active={$page.url.pathname == "/dibujos"}>Dibujos</a></li>
 <li><a href="/animaciones" class:active={$page.url.pathname == "/animaciones"}>Animaciones</a></li>
 <li><a href="/videos" class:active={$page.url.pathname == "/videos"}>Videos</a></li>

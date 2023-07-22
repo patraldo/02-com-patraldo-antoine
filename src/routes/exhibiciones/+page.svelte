@@ -14,7 +14,7 @@
   <h1 style="font-size:7vw;">La Musa que Más Aplauda</h1>
 </div>
 <div class='desc'>
-  <p style="font-size:5vw;">Estamos preparando la exhibición inagural de "Tray Chic". Ponemos que será en Octubre de 2023 en el lugar del difunto restaurante ¡Pinche Poutine! Más detalles próximamente.</p>
+  <p style="font-size:5vw;">Estamos preparando la exhibición inaugural de "Tray Chic". Ponemos que será en Octubre de 2023 en el lugar del difunto restaurante ¡Pinche Poutine! Más detalles próximamente.</p>
 </div>
 
 <style>
