@@ -18,6 +18,7 @@ import '@material/web/ripple/ripple.js';
 <li><a href="/proyecciones" class:active={$page.url.pathname == "/proyecciones"}>Proyecciones</a></li>
 <li><a href="/talleres" class:active={$page.url.pathname == "/talleres"}>Talleres</a></li>
 <li><a href="/contacto" class:active={$page.url.pathname == "/contacto"}>Contacto</a><md-ripple></md-ripple></li>
+<li><a href="/ubicacion" class:active={$page.url.pathname == "/ubicacion"}>Ubicación</a><md-ripple></md-ripple></li>
 
 </ul>
 </nav>
