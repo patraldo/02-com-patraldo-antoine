@@ -5,16 +5,16 @@
     $: path = $page.url.pathname;
 
 </script>
-<!-- <p style="font-size:5vw;">{path}Acerca de ANTOINEX</p> -->
+<!-- <p style="font-size:5vw;">{path}Exhibiciones</p> -->
 
 <div class='bienvenido'> 
-  <h1 style="font-size:8vw;">Bienvenid@ a mi galería en linea:</h1>
+  <h1 style="font-size:8vw;">Bienvenid@ a mi galería en Santa Tere, Guadalajara:</h1>
 </div>
 <div class='musa'> 
   <h1 style="font-size:7vw;">La Musa que Más Aplauda</h1>
 </div>
 <div class='desc'>
-  <p style="font-size:5vw;">Dibujar es un placer. Me permite descubrir lo que tengo en mi imaginación. Me gusta expresarme de esta manera. Poco a poco voy descubriendo la magia de animación, proyecciónes, murales y todo tipo de maneras de incorporar mis dibujos en la vida cotidiana.</p>
+  <p style="font-size:5vw;">Estamos preparando la exhibición inagural de "Tray Chic". Ponemos que será en Octubre de 2023 en el lugar del difunto restaurante ¡Pinche Poutine! Más detalles próximamente.</p>
 </div>
 
 <style>
