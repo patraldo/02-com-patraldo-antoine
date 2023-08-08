@@ -41,6 +41,7 @@ declare module '$env/static/private' {
 	export const MANAGERPID: string;
 	export const npm_config_userconfig: string;
 	export const npm_config_local_prefix: string;
+	export const SYSTEMD_EXEC_PID: string;
 	export const DBUS_SESSION_BUS_ADDRESS: string;
 	export const COLOR: string;
 	export const npm_config_metrics_registry: string;
@@ -53,6 +54,7 @@ declare module '$env/static/private' {
 	export const JOURNAL_STREAM: string;
 	export const _: string;
 	export const npm_config_prefix: string;
+	export const npm_config_npm_version: string;
 	export const NCURSES_NO_UTF8_ACS: string;
 	export const TERM: string;
 	export const npm_config_cache: string;
@@ -84,6 +86,7 @@ declare module '$env/static/private' {
 	export const XDG_DATA_DIRS: string;
 	export const npm_config_global_prefix: string;
 	export const npm_command: string;
+	export const PNPM_HOME: string;
 	export const INIT_CWD: string;
 	export const EDITOR: string;
 	export const NODE_ENV: string;
@@ -131,6 +134,7 @@ declare module '$env/dynamic/private' {
 		MANAGERPID: string;
 		npm_config_userconfig: string;
 		npm_config_local_prefix: string;
+		SYSTEMD_EXEC_PID: string;
 		DBUS_SESSION_BUS_ADDRESS: string;
 		COLOR: string;
 		npm_config_metrics_registry: string;
@@ -143,6 +147,7 @@ declare module '$env/dynamic/private' {
 		JOURNAL_STREAM: string;
 		_: string;
 		npm_config_prefix: string;
+		npm_config_npm_version: string;
 		NCURSES_NO_UTF8_ACS: string;
 		TERM: string;
 		npm_config_cache: string;
@@ -174,6 +179,7 @@ declare module '$env/dynamic/private' {
 		XDG_DATA_DIRS: string;
 		npm_config_global_prefix: string;
 		npm_command: string;
+		PNPM_HOME: string;
 		INIT_CWD: string;
 		EDITOR: string;
 		NODE_ENV: string;
